@@ -37,6 +37,10 @@ a:hover {
     margin-left: auto;
 }
 
+li {
+    padding: 20px;
+}
+
 a {
     color: #f5f5f6;
     text-decoration: none;    
@@ -94,12 +98,15 @@ a {
     max-width: 100%;
     height: auto;    
 }
+
 .card h1 {
     font-size: 1.5rem;
 }
+
 .card p {
     font-size: 1rem;
 }
+
 .card > .text {
     padding: 0 20px 20px;
 }
